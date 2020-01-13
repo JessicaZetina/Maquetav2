@@ -1,36 +1,39 @@
    
 
-@media only screen and (min-width: 750px) {
+  @media only screen and (min-width: 750px) {
 
-.academia{
-    height: 30vh;
-   }
+      .academia {
+          height: 30vh;
+      }
 
-   .representante{
-      background-color: rgb(231, 229, 229);
+      .representante {
+          background-color: rgb(231, 229, 229);
+          text-align: center;
+          font-size: 22px;
+      }
+
+      .nombre {
+          font-weight: 800;
+      }
+  }
+
+  #btn {
+      background-color: rgb(96, 128, 187);
+      font-size: 22px;
+  }
+
+  .accede {
       text-align: center;
       font-size: 22px;
-   }
-   .nombre{
-       font-weight: 800;
-   }
-}
-   #btn{
-       background-color: rgb(96, 128, 187);
-       font-size: 22px;
-   }
-   .accede{
-       text-align: center;
-       font-size: 22px;
-       margin-top: 15px;
-   }
-   .box-difruta{
-       text-align: left;
-       display: inline-block;
-       font-size: 22px;
-   }
-   footer{
-       font-size: 10px;
-   }
+      margin-top: 15px;
+  }
 
+  .box-difruta {
+      text-align: left;
+      display: inline-block;
+      font-size: 22px;
+  }
 
+  footer {
+      font-size: 10px;
+  }
