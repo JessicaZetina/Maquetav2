@@ -1,8 +1,11 @@
-  
+   
+
+@media only screen and (min-width: 750px) {
 
 .academia{
-    height: 25vh;
+    height: 30vh;
    }
+
    .representante{
       background-color: rgb(231, 229, 229);
       text-align: center;
@@ -11,7 +14,7 @@
    .nombre{
        font-weight: 800;
    }
-   
+}
    #btn{
        background-color: rgb(96, 128, 187);
        font-size: 22px;
@@ -26,3 +29,8 @@
        display: inline-block;
        font-size: 22px;
    }
+   footer{
+       font-size: 10px;
+   }
+
+
